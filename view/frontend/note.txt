@@ -1,0 +1,87 @@
+1. Need to make a dashboard
+2. 
+	Admin Functions
+		- Database name: course_add
+		 Course Add ( Course name, Course fee, Total Class, Total hours, Project,Discount)
+			1.Read More Ajax.
+		  	2.Hover over perticular course show tariner details information.
+
+		- Rules
+			Rules For Student Database Name: students_rules
+				1. student_rule_title 
+				2. student_rule_list
+				3. student_registration_button 
+				4. stdent_how_to_payment_title 
+				5. student_how_to_payment_content 
+
+			Rules For Teacher Databsae Name: teachers_rules
+				1. teacher_rule_title, 
+				2. teacher_rule_list 
+				3. teacher_registration_button 
+				
+			Rules For Admin Database Name: admin_rules
+				1. admin_rule_title, 
+				2. admin_rule_list 
+				3. admin_registration_button 
+				
+		- Training Program 
+			Database Name: training_list_create with course code
+
+				1. Android 				= ANDR
+				2. Game  				= GAME
+				3. Core Java 			= CJAV
+				4. Web Application 		= WEBA
+				5. PHP Pro  			= PHPP
+				6. SQL & PHP 			= SQPH
+				7. AJAX & JSON  		= AJJS
+				8. JavaScript & jQuery 	= JSJQ
+				9. Bootstrup 3 & 4  	= BOOT
+		- LIVE
+			Database Name: live_portal
+				1. CEO LIVE    (All permission, this account see all activity of  admin, teacher & student)
+				1. Admin LIVE  (80% permission)
+				2. Student LIVE
+				3. Teacher LIVE
+				4. Class LIVE
+
+				Student LIVE
+					1. Android Live
+					2. Excel Live
+					3. Game Live
+					4. JavaScript & jQuery LIVE
+					5. AJAX & JSON
+					6. PHP LIVE
+					7. CEO LIVE
+					8. Admin LIVE
+					9. Teacher LIVE
+
+				Teacher LIVE
+					1. ALL Teacher LIVE
+
+				CEO LIVE
+					1. CEO With Admin
+					2. CEO With Teacher
+					3. CEO With Student
+
+		Cloud Tutorial
+			Cloud Course Video Tutorial
+				1. Android 
+				2. Excel 
+				3. Game
+				4. Javascript
+				5. jQuery
+				6. AJAX & JSON
+				7. PHP
+
+
+
+
+
+
+
+
+		- student portal & admin portal.
+		- student can view full course content.
+		- enroled course will be visible to the student after successfull payment.
+		- enroled course will be visible to the 
+

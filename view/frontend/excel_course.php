@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Topicsfeedback</title>
+  <?php include '../../asset/frontend/component/meta_info.php'; ?>
+  
+   <?php include "../../asset/frontend/component/head_link.php" ?>
+
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="container">
+    <section>
+      <?php include '../../asset/frontend/component/head_message.php'; ?>
+      <?php include '../../asset/frontend/component/navigation_bar.php'; ?>
+      <?php include '../../asset/frontend/component/excel_content.php'; ?>
+      <?php include '../../asset/frontend/component/footer.php'; ?>
+      <?php include '../../asset/frontend/component/registration_model_student.php'; ?>
+      <?php include '../../asset/frontend/component/registration_model_teacher.php'; ?>
+       <?php include '../../asset/frontend/component/student_signup.php'; ?>
+      <?php include '../../asset/frontend/component/registration_model_mode.php'; ?>
+      <?php include '../../asset/frontend/component/login_page.php'; ?>
+    </section>
+  	
+  	
+  </div>
+</div>
+
+</body>
+</html>

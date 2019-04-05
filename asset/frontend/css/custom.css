@@ -1,0 +1,170 @@
+.mycourse{
+  			border:5px solid white;
+
+  	}
+    .navbar .icon-bar{
+      background-color: white;
+    }
+  	.leftCourse{
+  		border-radius: 0px 20px 0px 20px;
+  		background-color: #006C6D;
+  		border: 5px solid white;
+  		color: white;
+     
+
+  	}
+  	.rightCourse{
+  		background-color: #F26524; 
+  		border-radius: 20px 20px 0px 0px;
+  		border: 5px solid white;
+  		color: white;
+
+  	}
+  	.btn_area{
+  		margin:20px;
+  	}
+  	.footer{
+  		padding: 40px;
+  		background-color: #006C6D;
+  		color:white;
+  		border-radius: 5px 5px 5px 5px;
+
+  	}
+  	.navbar_color{
+  		background-color: #006C6D ;
+  		border:1px solid #006C6D;
+  		margin: 0px;
+  		border-radius: 0px;
+  	}
+  	.navbar_color li>a {
+  		color: white !important;
+  	}
+  	.navbar_color li>a:hover{
+  		background-color: #003F44;
+  	}
+  	.navbar_color ul ul>li{
+  		background-color: #006C6D;
+
+  	}
+  	.myform {
+      border:5px solid tomato;
+      padding: 0px 10px 10px 10px; 
+      border-radius: 0px;
+    }
+    .form_header{
+      background-color: tomato;
+      color:white;
+      padding: 10px;
+      margin-bottom: 5px;
+    }
+    .head_topics{
+        margin: 10px 0px 10px 0px;
+    }
+    .we_teach{
+      margin-top: 20%;
+    }
+    @media only screen and (max-width: 900px) {
+          .my_subject{
+            display: none;
+          } 
+           .we_teach{
+            margin: 0%;
+          }   
+          .head_topics{
+              margin: 5px 0px 5px 0px;
+          }
+
+    }
+    .courseTitle{
+      background-color: tomato;
+      color: white;
+      border-radius: 4px 10px 10px 4px;
+      padding: 10px;
+
+    }
+    .contact_address{
+      
+      padding: 10px;
+      margin:20px 0px ;
+    }
+    .mcard {
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      width: 40%;
+    }
+
+    .mcard:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    .card_container {
+      padding: 2px 16px;
+    }
+    .live_content_header{
+      background-color: tomato;
+      color:white;
+      padding: 1px;
+      margin-top: 10px;
+      font-family: 'Staatliches', cursive;
+    }
+    .live_content_header h3{
+      font-family: 'Staatliches', cursive;
+    }
+    .mCollapse img{
+      width:300px;
+      height: 200px;
+    }
+    .panel_name {
+      display: block;
+
+    }
+
+    .mdcard {
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      width:100%;
+
+  }
+  .mdcard img{
+    width:100%;
+    height: 300px;  
+  }
+
+  .mdcard:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  .head_wrapper{
+    position: relative;
+  }
+
+   .affix {
+    top: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    width: 100%;
+    max-width: 1170px;
+    z-index: 9999 !important;
+    margin: 0px auto;
+    background-color: #006C6D;
+  }
+
+  .affix + .container-fluid {
+      padding-top: 200px;
+  }
+
+
+
+ .course_content{
+    border:10px solid #C6C6C6;
+    padding: 0px ;
+    background-color: #C6C6C6;
+ }
+ .title_font_style_changer{
+  font-family: 'Merriweather', serif;
+ }
+ .content_container{
+  min-height: 786px !important;
+ }
+
